@@ -9,6 +9,16 @@ CivicLens is a digital platform designed to help users discover, understand, and
 Finding clear and organized information about political leaders can be difficult.
 
 CivicLens aims to bring relevant information about leaders and elections into one accessible platform, helping users explore information in a simple and understandable way.
+## 👨🏽‍💻 My Role
+
+**UI/UX Designer & Software Developer**
+
+- Conducted user research
+- Created the information architecture
+- Designed user flows
+- Designed the user interface
+- Developed the project
+- Worked on the overall user experience
 
 ## ✨ Features
 
@@ -51,3 +61,5 @@ More features and improvements are currently being worked on.
 **Samuel Oyindamola**
 
 Software Developer + UI/UX Designer
+
+
