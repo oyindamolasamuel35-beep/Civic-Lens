@@ -65,7 +65,17 @@ The project was developed using user research, information architecture, user fl
 
 **In Development**
 
-More features and improvements are currently being worked on.
+CivicLens is currently being developed and refined.
+
+### Current Progress
+
+- ✅ User research
+- ✅ Information architecture
+- ✅ User flows
+- ✅ UI/UX design
+- 🔄 Frontend development
+- ⏳ Backend integration
+- ⏳ Testing and refinement
 
 ## 👨🏽‍💻 Developer
 
