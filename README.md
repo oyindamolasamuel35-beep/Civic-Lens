@@ -51,11 +51,16 @@ The project was developed using user research, information architecture, user fl
 
 ## 🛠️ Technologies
 
+### Design
 - Figma
+- UI/UX Design
+- User Research
+- Information Architecture
+
+### Development
 - HTML
 - CSS
 - JavaScript
-
 - ## 🔗 Project Links
 
 - 🎨 Figma Design — Coming soon
