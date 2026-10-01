@@ -3,6 +3,13 @@
 ### Know Your Leader
 
 CivicLens is a digital platform designed to help users discover, understand, and compare information about political leaders before making informed decisions.
+## 💡 Problem
+
+People often have difficulty finding clear, organized, and accessible information about political leaders and elections.
+
+Information may be scattered across different sources, making it difficult for users to understand a leader's background, experience, achievements, and positions before making their own decisions.
+
+CivicLens was designed to bring relevant information into one simple and accessible platform.
 
 ## 🎯 Project Overview
 
