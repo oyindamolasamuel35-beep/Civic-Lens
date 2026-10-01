@@ -21,7 +21,7 @@ CivicLens aims to bring relevant information about leaders and elections into on
 - 📱 User-friendly interface
 
 ### 📸 Preview
-![CivicLens Homepage](./Screenshot%202026-09-10%20123834.png)
+![CivicLens Homepage](./civiclens-home.png.png)
 
 The project was developed using user research, information architecture, user flows, and UI/UX design principles.
 
