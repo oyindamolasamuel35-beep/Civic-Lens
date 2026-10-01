@@ -32,6 +32,11 @@ The project was developed using user research, information architecture, user fl
 - CSS
 - JavaScript
 
+- ## 🔗 Project Links
+
+- 🎨 Figma Design — Coming soon
+- 🌐 Live Demo — Coming soon
+
 ## 🚧 Project Status
 
 **In Development**
